@@ -40,6 +40,7 @@ class App extends Component {
           <p>
             Edit <code>src/App.js</code> and Shobhit reload this.
           </p>
+          <p>Who are you ?</p>
           <LambdaDemo />
         </header>
       </div>
